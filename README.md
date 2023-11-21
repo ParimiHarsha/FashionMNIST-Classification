@@ -11,6 +11,6 @@ While using any new packages, first add them to the requirements.in file with th
 1. install conda
 2. Create new virtual environment using `conda create --name fmnist-env python=3.11`
 3. Activate the conda environment using `conda activate fmnist-env`
-4. Install all the required packages pip install -r requirements.txt 
+4. Install all the required packages `pip install -r requirements.txt` 
     - Alternatively you can also run `pip-sync requirements.txt` which would delete unncessary packages
 5. Install any other packages that you might require and add them to the requirements.in file

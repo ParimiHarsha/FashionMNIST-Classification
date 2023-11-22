@@ -13,6 +13,6 @@ lime==0.2.0.1
 scikit-image==0.22.0
 shap==0.43.0
 skorch==0.15.0
-umap==0.1.1
+umap-learn==0.5.5
 xgboost==2.0.2
 jupyter==1.0.0

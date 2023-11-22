@@ -14,5 +14,5 @@ scikit-image==0.22.0
 shap==0.43.0
 skorch==0.15.0
 umap-learn==0.5.5
-xgboost==2.0.2
+xgboost==1.7.4
 jupyter==1.0.0
